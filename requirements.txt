@@ -1,0 +1,12 @@
+numpy
+langchain-openai
+langchain-community
+langchain-core
+openai
+python-dotenv
+faiss-cpu
+flask
+gunicorn
+redis
+pinecone
+langchain-pinecone

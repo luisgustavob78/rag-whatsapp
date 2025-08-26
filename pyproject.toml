@@ -1,0 +1,20 @@
+[project]
+name = "rag-whatsapp"
+version = "1.0.2"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "faiss-cpu>=1.11.0.post1",
+    "flask>=3.1.1",
+    "gunicorn>=23.0.0",
+    "langchain-community>=0.3.27",
+    "langchain-core>=0.3.68",
+    "langchain-openai>=0.3.28",
+    "langchain-pinecone>=0.2.8",
+    "numpy>=2.3.1",
+    "openai>=1.95.1",
+    "pinecone>=7.3.0",
+    "python-dotenv>=1.1.1",
+    "redis>=6.2.0",
+]
