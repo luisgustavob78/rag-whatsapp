@@ -19,7 +19,10 @@ The solution's success is being measured by reduction and the number of service 
 The main technologies used here are the GPT model to generate queries for the retrieval and the final answer and Document Intelligence from Azure to process pdf documents and extract text from these files.
 
 ## Utilization
-The bot was made available through a phone number from Brazil on whatsapp and work like the following:
+The bot was made available through a phone number from Brazil on whatsapp and work like the following:  
+<img width="635" height="442" alt="image" src="https://github.com/user-attachments/assets/a7cd181a-cd0b-40bc-924d-0435fb2eec8b" />  
+<img width="629" height="469" alt="image" src="https://github.com/user-attachments/assets/c75f0ced-f986-47f4-9d10-707bfe8c21ab" />  
+
 
 ## Reproducibility
 Feel free to clone the repo and use the code available here, but the application itself is not available to be exactly reproduced because of restrictions like:
