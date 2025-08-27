@@ -11,7 +11,7 @@ The vistual assistant leverages all the power from Generative AI to process docu
 ## How it works as a product
 This solution was developed for a company called Facilitat, that has a software that manages digitally all the stuff related to guarantees and maintenance. They have a portfolio with many buildings. To initiate the implementation of this new solution, they chose a building for a test and made the assistante available for users from 300 different apartments.
 
-The solution's success is being measured by reduction and the number of service tickets opening and NPS. 
+The solution's success is being measured by reduction and the number of service tickets opening and increasement on NPS. 
 
 ## Resources
 The main technologies used here are the GPT model to generate queries for the retrieval and the final answer and Document Intelligence from Azure to process pdf documents and extract text from these files.
