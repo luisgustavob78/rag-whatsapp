@@ -1,7 +1,7 @@
 # Virtual Assistant for Bulding Management
 Imagine yourself receiving the keys of your newly bought apartment for the first time. All you want is enjoy your home and start this new beautiful cycle of your life and live happy forever.  
 
-Some time after the realisation, a defect on your gas system suddenly comes up. Do you have an ensurance for that? Guarantees? Did you perform all maintenance tasks required so you can have the right to claim for an free intervention from the constructor?  
+Some time after the realisation, a defect on your gas system suddenly comes up. Do you have an ensurance for that? Guarantees? Did you perform all maintenance tasks required so you can have the right to claim for a free intervention from the constructor?  
 You open the usage manual and all you can find is a bunch of technical terms about materials and structures you had never seen. At this moment, the dream of the "home sweet home" is about to become a nightmare.
 
 Not anymore. Not with Bob, your virtual assistant 24h available on your whatsapp to answer all your questions about how to take care of your home in a language you can understand. The assistant receives all the information existent in the usage & operations manual and can clarify questions about service providers, maintenance, and guarantees.
